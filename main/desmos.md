@@ -3,4 +3,4 @@
 
 
 # conics
-### [Hyperbola](https://www.desmos.com/calculator/eqyouipv6m)
+### [Hyperbola](https://www.desmos.com/calculator/4mnmwdmiqt)
